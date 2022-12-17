@@ -1,0 +1,8 @@
+{
+    "conventionalCommits.scopes": [
+        "Login feature",
+        "chat feature",
+        "settings screen",
+        "SingleMessageScreen"
+    ]
+}
